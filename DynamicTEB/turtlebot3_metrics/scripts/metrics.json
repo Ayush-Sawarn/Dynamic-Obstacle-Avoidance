@@ -1,0 +1,12 @@
+{
+  "goal_reach_rate": 1.0,
+  "goal_reach_rate_percent": 100.0,
+  "successful_goals": 1,
+  "total_goal_attempts": 1,
+  "collision_count": 3,
+  "path_optimality": 0.7742865704577441,
+  "path_optimality_samples": 1,
+  "avg_replanning_interval_s": 0.10053243243243248,
+  "replanning_speed_hz": 9.947038739683302,
+  "replanning_updates": 371
+}
